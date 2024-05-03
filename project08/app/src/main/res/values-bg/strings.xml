@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">project08</string>
+
+    <string name="first_label">Дървото е наблизо</string>
+    <string name="second_label">Тревата е зелена</string>
+    <string name="third_label">Левандовски е кралят</string>
+</resources>

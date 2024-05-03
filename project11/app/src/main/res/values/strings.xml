@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">project11</string>
+    <string name="welcome_question">Jak się nazywasz?</string>
+    <string name="welcome_question_edit_hint">Tutaj wpisz swoje imię</string>
+    <string name="login_button_text">Zaloguj</string>
+</resources>

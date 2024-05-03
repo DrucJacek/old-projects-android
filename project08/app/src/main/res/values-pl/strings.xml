@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">project08</string>
+
+    <string name="first_label">Drzewo jest niedaleko</string>
+    <string name="second_label">Trawa jest zielona</string>
+    <string name="third_label">Lewandowski krolem jest</string>
+</resources>

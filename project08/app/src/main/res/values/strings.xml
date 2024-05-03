@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">project08</string>
+
+    <string name="first_label">The tree is not far</string>
+    <string name="second_label">Grass is green</string>
+    <string name="third_label">Lewandowski is the king</string>
+</resources>
